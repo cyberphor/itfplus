@@ -1,3 +1,7 @@
+---
+description: Explain the troubleshooting methodology.
+---
+
 # Troubleshooting
 
 ## Identify the Problem

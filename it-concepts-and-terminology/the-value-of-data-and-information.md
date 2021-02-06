@@ -1,3 +1,7 @@
+---
+description: Explain the value of data and information.
+---
+
 # The Value of Data and Information
 
 ## Data & Creating information

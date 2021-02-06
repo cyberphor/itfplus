@@ -1,3 +1,7 @@
+---
+description: Compare and contrast notational systems.
+---
+
 # Notational Systems
 
 ## Binary
